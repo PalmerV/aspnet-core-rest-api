@@ -6,3 +6,5 @@ obj/
 *.user
 *.lock
 *.db
+*.db-shm
+*.db-wal
